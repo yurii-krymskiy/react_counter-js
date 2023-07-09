@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAA,CAGF,OACE,cAAA","file":"main.eda26252.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbutton {\n  cursor: pointer;\n}\n"]}
